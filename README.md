@@ -31,7 +31,6 @@
 
 <td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/your-image.png" width="400"/>
 
 </td>
 </tr>
