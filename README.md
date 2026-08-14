@@ -27,8 +27,8 @@
 
 ## 💼 Professional Experience
 
-### 🤖 AIML Engineer — Tricosys Solutions Pvt. Ltd.
-**Apr 2025 – Jul 2026**
+### 🤖 AIML Engineer —  Rajyug Solutions
+**Dec 2025 – Jul 2026**
 
 - 🚀 Shipped **LLM-powered REST APIs** using FastAPI and LangChain for document search, Natural Language-to-SQL, and workflow automation.
 - ⚡ Deployed containerized AI backend services using **FastAPI, Docker, and Vector Databases**.
